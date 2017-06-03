@@ -158,7 +158,7 @@ module.exports.hello = (event, context, callback) =>
 
     dispatch(event, callback);
 
-    // test
+    // test testbranch
 
     // getFAQEntry('AvailableCountries').then((result) => console.log(result))
 
